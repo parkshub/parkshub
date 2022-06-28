@@ -16,3 +16,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parkshub&show_icons=true&locale=en&layout=compact" alt="parkshub" /></p>
+
+https://github-readme-codewars-stats.herokuapp.com/api/?username=vanhaaggen&badge&colormode=bright_mode
