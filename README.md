@@ -5,11 +5,11 @@
 <a href="https://linkedin.com/in/andrew-jh-park" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew-jh-park" height="30" width="40" /></a>
 </p>
 
-- 👨‍💻 All of my projects are available at [https://andrewjpark.netlify.app/](https://andrewjpark.netlify.app/)
+- 👨‍💻 All of my projects are available on my [portfolio](https://andrewjpark.netlify.app/)
 
 - 📫 How to reach me **AndrewJHPark@protonmail.com**
 
-- 📄 Here is my full CV [https://andrewjpark.netlify.app/assets/Andrew%20Park%20Resume%20033022.pdf](https://andrewjpark.netlify.app/assets/Andrew%20Park%20Resume%20033022.pdf)
+- 📄 Here is my full [CV](https://andrewjpark.netlify.app/assets/Andrew%20Park%20Resume%20033022.pdf)
 
 - ⚡ Favorite quote **“When you do things right, people won't be sure you've done anything at all.” - Matt Groening**
 
