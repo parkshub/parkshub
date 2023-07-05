@@ -26,28 +26,28 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Project 1</h3>
+      <h3 align="center">Eventer - California</h3>
         <br />
         <a target="_blank" href="PROJECT 1 LINK!!!!!!!!!!!!!!!! MIGHT NOT WANT TO LINK HERE THOUGH">
-            <img src="PROJECT 1 GIF!!!!!!!!!!!!!!!!!!!!!!" width="100%" alt="DESC!!!!!!!!!!!!!!!!"/>
+            <img src="images/eventerGif.gif" width="100%" alt="Eventer web app gif"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="PROJECT 1 REPO LINK!!!!!!!!!!" target="_blank">
+  <a href="https://github.com/parkshub/eventer-react-redux" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="PROJECT 1 WEBSITE LINK!!!!!!!!!" target="_blank">
+  <a href="https://eventer-california-usa.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Project 1 technology</strong> - Project 1 description</p>
+        <p><strong>Javascript, Node.js, Express.js, React, Redux, MongoDB </strong> - An application to meet new people by creating and attending events in California</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Project 2</h3>
+      <h3 align="center">Portfolio Tracker</h3>
         <br />
       <a target="_blank" href="PROJECT 2 LINK!!!!!!!!!!!! MIGHT NOT WANT TO LINK HERE THOUGH">
-            <img src="PROJECT 1 GIF!!!!!!!!!" width="100%"  alt="DESC!!!!!!!!!!!!!!!!!!"/>
+            <img src="images/Portfolio.Tracker.Gif.gif" width="100%"  alt="Portfolio tracking web application gif"/>
         </a>
         <br />
         <p align="center">
