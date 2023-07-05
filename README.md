@@ -79,10 +79,10 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Project 3 tech</strong> - Project 3 description.</p>
+        <p><strong>Python, TensorFlow, Keras, Matplotlib, Pandas</strong> - A dog breed classifying neural network trained using a combination of convolution neural networks</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Project 4</h3>
+      <h3 align="center">Spam Filter</h3>
         <br />
         <a target="_blank" href="Project 4 LINK!!!!!!!!!!!">
           <img src="images/Spam Gif.gif" width="100%" alt="DESC!!!!!!!"/>
@@ -90,14 +90,14 @@
         <br />
         <p align="center">
           
-  <a href="PROJECT 4 REPO LINK!!!!!!!!!!!!!!" target="_blank">
+  <a href="https://github.com/parkshub/python-neural-network-spam-ham-classifier" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="PROJECT 4 WEBSITE LINK!!!!!!!!!!!" target="_blank">
+  <a href="https://github.com/parkshub/python-neural-network-spam-ham-classifier/blob/main/neural_network.ipynb" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Porject 4 tech</strong> - Project 4 description</p>
+        <p><strong>Python, Numpy, Matplotlib, SciPy</strong> - A spam filtering neural network built without the use of neural network APIs</p>
     </td>
   </tr>
 </table>
