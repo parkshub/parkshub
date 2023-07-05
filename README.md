@@ -85,7 +85,7 @@
       <h3 align="center">Project 4</h3>
         <br />
         <a target="_blank" href="Project 4 LINK!!!!!!!!!!!">
-          <img src="Breed Classifier Gif.gif" width="100%" alt="DESC!!!!!!!"/>
+          <img src="images/Spam Gif.gif" width="100%" alt="DESC!!!!!!!"/>
         </a>
         <br />
         <p align="center">
