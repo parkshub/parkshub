@@ -52,14 +52,14 @@
         <br />
         <p align="center">
           
-  <a href="PROJECT 2 REPO!!!!!!!!!!!" target="_blank">
+  <a href="https://github.com/parkshub/portfolio-tracker-part-2" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="PROJECT 2 LINK!!!!!!!!!!!!" target="_blank">
+  <a href="https://crypto-portfolio-tracker-61f20615e34f.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Project 2 technology</strong> - Project 2 descriptions.</p>
+        <p><strong>Javascript, Node.js, Express.js, React, Redux, MongoDB, Material UI</strong> - A web application to track your cryptocurrency portfolio's progress</p>
     </td>
   </tr>
   
