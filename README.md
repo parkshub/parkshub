@@ -68,7 +68,7 @@
       <h3 align="center">Project 3</h3>
       <br />
         <a target="_blank" href="PROJECT 3 LINK!!!!!!!!!!! MIGHT NOT WANT TO LINK HERE THOUGH">
-          <img src="PROJECT 3 GIF!!!!!!!!!!" width="100%" alt="DESC!!!!!!!!!!!!!!"/>
+          <img src="images/Breed Classifier Gif.gif" width="100%" alt="DESC!!!!!!!!!!!!!!"/>
         </a>
       <br />
         <p align="center">
@@ -85,7 +85,7 @@
       <h3 align="center">Project 4</h3>
         <br />
         <a target="_blank" href="Project 4 LINK!!!!!!!!!!!">
-          <img src="PROJECT 4 GIF!!!!!!!!!!!!!!" width="100%" alt="DESC!!!!!!!"/>
+          <img src="Breed Classifier Gif.gif" width="100%" alt="DESC!!!!!!!"/>
         </a>
         <br />
         <p align="center">
