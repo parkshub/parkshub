@@ -25,7 +25,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Eventer - California</h3>
+      <h3 align="center">Airbnb Client Fullstack Web App</h3>
         <br />
         <a target="_blank" href="PROJECT 1 LINK!!!!!!!!!!!!!!!! MIGHT NOT WANT TO LINK HERE THOUGH">
             <img src="images/Airbnb Website.gif" width="100%" alt="Eventer web app gif"/>
@@ -33,10 +33,8 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/parkshub/eventer-react-redux" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://eventer-california-usa.herokuapp.com/" target="_blank">
+  
+  <a href="https://peculiarnest-c9692d743fa1.herokuapp.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
