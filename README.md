@@ -28,7 +28,7 @@
       <h3 align="center">Eventer - California</h3>
         <br />
         <a target="_blank" href="PROJECT 1 LINK!!!!!!!!!!!!!!!! MIGHT NOT WANT TO LINK HERE THOUGH">
-            <img src="images/Eventer Gif.gif" width="100%" alt="Eventer web app gif"/>
+            <img src="images/Airbnb Website.gif" width="100%" alt="Eventer web app gif"/>
         </a>
         <br />
         <p align="center">
