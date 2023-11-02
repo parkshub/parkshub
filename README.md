@@ -34,7 +34,7 @@
         <p align="center">
           
   
-  <a href="https://peculiarnest-c9692d743fa1.herokuapp.com" target="_blank">
+  <a href="http://peculiarnestbnb.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
