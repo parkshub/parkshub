@@ -64,7 +64,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Dog Breed Classifier</h3>
       <br />
-        <a target="_blank" href="PROJECT 3 LINK!!!!!!!!!!! MIGHT NOT WANT TO LINK HERE THOUGH">
+        <a target="_blank" href="https://neural-network-breed-classifier.netlify.app/">
           <img src="images/Breed Classifier Gif.gif" width="100%" alt="DESC!!!!!!!!!!!!!!"/>
         </a>
       <br />
@@ -81,7 +81,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Spam Filter</h3>
         <br />
-        <a target="_blank" href="Project 4 LINK!!!!!!!!!!!">
+        <a target="_blank" href="https://github.com/parkshub/python-neural-network-spam-ham-classifier/blob/main/neural_network.ipynb">
           <img src="images/Spam Gif.gif" width="100%" alt="DESC!!!!!!!"/>
         </a>
         <br />
