@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **AndrewJHPark@protonmail.com**
 
+
+- 📄 Here is my [Resume](https://andrewjpark.netlify.app/assets/Resume%20-%20Andrew%20Park.pdf)
 - 📄 Here is my [CV](https://andrewjpark.netlify.app/assets/Andrew%20Park%20CV.pdf)
 <!-- - 📄 Here is my [CV](https://andrewjpark.netlify.app/assets/CV%20-%20Andrew%20Park.pdf) -->
 
