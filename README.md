@@ -43,9 +43,9 @@
     <td width="50%" valign="top">
       <h3 align="center">Portfolio Tracker</h3>
         <br />
-      <a target="_blank" href="PROJECT 2 LINK!!!!!!!!!!!! MIGHT NOT WANT TO LINK HERE THOUGH">
+<!--       <a target="_blank" href="PROJECT 2 LINK!!!!!!!!!!!! MIGHT NOT WANT TO LINK HERE THOUGH"> -->
             <img src="images/Portfolio Tracker Gif.gif" width="100%"  alt="Portfolio tracking web application gif"/>
-        </a>
+<!--         </a> -->
         <br />
         <p align="center">
           
