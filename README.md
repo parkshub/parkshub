@@ -28,7 +28,7 @@
       <h3 align="center">Airbnb Client Fullstack Web App</h3>
         <br />
 <!--         <a target="_blank" href="PROJECT 1 LINK!!!!!!!!!!!!!!!! MIGHT NOT WANT TO LINK HERE THOUGH"> -->
-            <img src="images/Airbnb Website.gif" width="100%" alt="Eventer web app gif"/>
+            <img src="images/Airbnb Website.gif" width="100%" alt="airbnb web app gif"/>
 <!--         </a> -->
         <br />
         <p align="center">
