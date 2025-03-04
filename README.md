@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">a software engineer located in Los Angeles, CA/ Seoul, South Korea. I also do data analysis!</h3>
+<h3 align="center">a data analyst/software engineer located in Los Angeles, CA/ Seoul, South Korea. I also do data analysis!</h3>
 <p align="center">
 <a href="https://linkedin.com/in/andrew-jh-park" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew-jh-park" height="30" width="40" /></a>
 </p>
