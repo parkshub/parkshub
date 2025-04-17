@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **AndrewJHPark@protonmail.com**
 
-- 📄 Here is my [Resume](https://andrewjpark.netlify.app/assets/Resume%20-%20Andrew%20Park.pdf) and [CV](https://andrewjpark.netlify.app/assets/Andrew%20Park%20CV.pdf)
+- 📄 Here is my [Resume](https://andrewjpark.netlify.app/assets/Resume%20-%20Andrew%20Park.pdf) <!--and [CV](https://andrewjpark.netlify.app/assets/Andrew%20Park%20CV.pdf) -->
 
 
 - ⚡ Favorite quote **“When you do things right, people won't be sure you've done anything at all.” - Matt Groening**
