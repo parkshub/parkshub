@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">a data analyst/software engineer located in Los Angeles, CA/ Seoul, South Korea</h3>
+<h3 align="center">Based in LA / Seoul, building things with data and code—from pipelines to products</h3>
 <p align="center">
 <a href="https://linkedin.com/in/andrew-jh-park" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew-jh-park" height="30" width="40" /></a>
 </p>
 
-- 👨‍💻 All of my projects are available on my [portfolio](https://andrewjpark.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available on my [portfolio](https://andrewjpark.netlify.app/) -->
 
 - 📫 How to reach me **AndrewJHPark@protonmail.com**
 
