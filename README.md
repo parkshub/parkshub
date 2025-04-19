@@ -22,7 +22,48 @@
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-  
+
+<tr>
+<td width="50%" valign="top">
+  <h3 align="center">U-NET Segmentation for Meter Readings</h3>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/parkshub/water-meter-project-aws/main/assets/learning.gif" width="100%" alt="U-NET demo"/>
+  </p>
+
+  <div style="margin-top: 40px;"> <!-- adjust this to visually center -->
+    <p align="center">
+      <a href="https://github.com/parkshub/water-meter-project-aws/tree/main/scripts/unet" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+      </a>
+    </p>
+    <p align="center">
+      <strong>Python, TensorFlow, Tesseract OCR, OpenCV, AWS</strong><br />
+      A U-Net segmentation model for detecting water meters and extracting readings with Tesseract OCR, with AWS integration currently in progress.
+    </p>
+  </div>
+</td>
+
+
+
+  <td width="50%" valign="top">
+    <h3 align="center">Serverless AWS Water Meter Dashboard</h3>
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/parkshub/water-meter-project-aws/main/assets/aws-report-thumb.png" width="60%" alt="AWS dashboard"/>
+    </p>
+    <p align="center">
+      <a href="https://github.com/parkshub/water-meter-project-aws/tree/main/scripts/aws" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+      </a>
+    </p>
+    <p align="center">
+      <strong>Python, Cognito, CloudFront, Lambda, S3, DynamoDB, SQS</strong><br />
+      A serverless pipeline that collects user-submitted meter data and updates a live dashboard, with secure access and near real-time map generation.
+    </p>
+  </td>
+</tr>
+
+
+    
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Airbnb Client Fullstack Web App</h3>
