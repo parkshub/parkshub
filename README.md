@@ -51,43 +51,6 @@
 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Airbnb Client Fullstack Web App</h3>
-      <p align="center">
-        <img src="images/Airbnb Website.gif" width="100%" alt="airbnb web app gif"/>
-      </p>
-      <div style="margin-top: 40px;">
-        <p align="center">
-          <a href="http://peculiarnestbnb.com/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-          </a>
-        </p>
-        <p>
-          <strong>Javascript, Node.js, Express.js, React.js, Next.js, MongoDB, Chakra UI</strong> - A fullstack web application to showcase a client's airbnb property.
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Portfolio Tracker</h3>
-      <p align="center">
-        <img src="images/Portfolio Tracker Gif.gif" width="100%" alt="Portfolio tracking web application gif"/>
-      </p>
-      <div style="margin-top: 40px;">
-        <p align="center">
-          <a href="https://github.com/parkshub/portfolio-tracker-part-2" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-          </a>&nbsp;<a href="https://crypto-portfolio-tracker-61f20615e34f.herokuapp.com/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-          </a>
-        </p>
-        <p>
-          <strong>Javascript, Node.js, Express.js, React.js, Redux, MongoDB, Material UI</strong> - A web application to track your cryptocurrency portfolio's progress.
-        </p>
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">Dog Breed Classifier</h3>
       <p align="center">
         <a href="https://neural-network-breed-classifier.netlify.app/" target="_blank">
@@ -124,6 +87,43 @@
         </p>
         <p>
           <strong>Python, Numpy, Matplotlib, SciPy</strong> - A spam filtering neural network built without the use of neural network APIs.
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Airbnb Client Fullstack Web App</h3>
+      <p align="center">
+        <img src="images/Airbnb Website.gif" width="100%" alt="airbnb web app gif"/>
+      </p>
+      <div style="margin-top: 40px;">
+        <p align="center">
+          <a href="http://peculiarnestbnb.com/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
+        <p>
+          <strong>Javascript, Node.js, Express.js, React.js, Next.js, MongoDB, Chakra UI</strong> - A fullstack web application to showcase a client's airbnb property.
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio Tracker</h3>
+      <p align="center">
+        <img src="images/Portfolio Tracker Gif.gif" width="100%" alt="Portfolio tracking web application gif"/>
+      </p>
+      <div style="margin-top: 40px;">
+        <p align="center">
+          <a href="https://github.com/parkshub/portfolio-tracker-part-2" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>&nbsp;<a href="https://crypto-portfolio-tracker-61f20615e34f.herokuapp.com/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
+        <p>
+          <strong>Javascript, Node.js, Express.js, React.js, Redux, MongoDB, Material UI</strong> - A web application to track your cryptocurrency portfolio's progress.
         </p>
       </div>
     </td>
